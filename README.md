@@ -13,5 +13,8 @@
 - toshpfile.py
 
 
-**Testing Confusion Matrix**
+**Confusion Matrix**
 ![alt text](https://i.imgur.com/uVk6VbO.png)
+
+**f1-score**
+- best : 98.224%
