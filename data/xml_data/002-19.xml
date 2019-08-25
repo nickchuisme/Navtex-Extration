@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<S124:DataSet xmlns:S100="http://www.iho.int/s100gml/1.0" xmlns:S124="http://www.iho.int/S124/gml/1.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="TW.NAVTEX.19.002" xsi:schemaLocation="http://www.iho.int/S124/gml/1.0 /Users/nick/Downloads/S124.xsd">
+  <gml:boundedBy>
+    <gml:Envelope srsName="EPSG:4326">
+      <gml:lowerCorner>120.091388888889 22.6483333333333</gml:lowerCorner>
+      <gml:upperCorner>120.274722222222 22.715</gml:upperCorner>
+    </gml:Envelope>
+  </gml:boundedBy>
+  <imember>
+    <S124:S124_NWPreamble gml:id="NW.TW.NAVTEX.19.002">
+      <id>urn:mrn:s124:NW.TW.NAVTEX.19.002</id>
+      <messageSeriesIdentifier>
+        <nameOfSeries>NAVTEX</nameOfSeries>
+        <typeOfWarning>coastal navigational warning</typeOfWarning>
+        <warningNumber>002</warningNumber>
+        <year>2019</year>
+        <productionAgency>
+          <language>eng</language>
+          <text>Keelung Coastal Radio</text>
+        </productionAgency>
+        <country>TW</country>
+      </messageSeriesIdentifier>
+      <S124_publicationDate>2019-01-01T02:30:00</S124_publicationDate>
+      <title>
+        <text>GUNNERY</text>
+      </title>
+      <generalArea>
+        <S124_locationName>
+          <text>TAIWAN</text>
+        </S124_locationName>
+      </generalArea>
+      <warningHazardType>military exercises</warningHazardType>
+      <theWarningPart xlink:href="#NW.TW.NAVTEX.19.002.1"/>
+      <theWarningPart xlink:href="#NW.TW.NAVTEX.19.002.2"/>
+      <theWarningPart xlink:href="#NW.TW.NAVTEX.19.002.3"/>
+    </S124:S124_NWPreamble>
+  </imember>
+  <member>
+    <S124:S124_NavigationalWarningFeaturePart gml:id="NW.TW.NAVTEX.19.002.1">
+      <id>urn:mrn:s124:NW.TW.NAVTEX.19.002.1</id>
+      <geometry>
+        <S100:surfaceProperty>
+          <S100:Polygon gml:id="P.NW.TW.NAVTEX.19.002.1" srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList>122.008333333333 25.3316666666667
+ 122.008333333333 25.465
+ 122.208333333333 25.465
+ 122.208333333333 25.3316666666667
+ 122.008333333333 25.3316666666667
+</gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </S100:Polygon>
+        </S100:surfaceProperty>
+      </geometry>
+      <fixedDateRange>
+        <text>0000UTC-0900UTC DAILY 2,3,4 JAN</text>
+      </fixedDateRange>
+      <header xlink:href="#NW.TW.NAVTEX.19.002"/>
+    </S124:S124_NavigationalWarningFeaturePart>
+  </member>
+  <member>
+    <S124:S124_NavigationalWarningFeaturePart gml:id="NW.TW.NAVTEX.19.002.2">
+      <id>urn:mrn:s124:NW.TW.NAVTEX.19.002.2</id>
+      <geometry>
+        <S100:surfaceProperty>
+          <S100:Polygon gml:id="P.NW.TW.NAVTEX.19.002.2" srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList>119.091388888889 23.4983333333333
+ 119.091388888889 23.665
+ 119.258055555556 23.665
+ 119.258055555556 23.4983333333333
+ 119.091388888889 23.4983333333333
+</gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </S100:Polygon>
+        </S100:surfaceProperty>
+      </geometry>
+      <fixedDateRange>
+        <text>0000UTC-0900UTC DAILY 2,3,4 JAN</text>
+      </fixedDateRange>
+      <header xlink:href="#NW.TW.NAVTEX.19.002"/>
+    </S124:S124_NavigationalWarningFeaturePart>
+  </member>
+  <member>
+    <S124:S124_NavigationalWarningFeaturePart gml:id="NW.TW.NAVTEX.19.002.3">
+      <id>urn:mrn:s124:NW.TW.NAVTEX.19.002.3</id>
+      <geometry>
+        <S100:surfaceProperty>
+          <S100:Polygon gml:id="P.NW.TW.NAVTEX.19.002.3" srsName="EPSG:4326">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList>120.274722222222 22.6483333333333
+ 120.091388888889 22.715
+ 120.258055555556 22.715
+ 120.274722222222 22.6483333333333
+</gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </S100:Polygon>
+        </S100:surfaceProperty>
+      </geometry>
+      <fixedDateRange>
+        <text>0000UTC-0900UTC DAILY 2,3,4 JAN</text>
+      </fixedDateRange>
+      <header xlink:href="#NW.TW.NAVTEX.19.002"/>
+    </S124:S124_NavigationalWarningFeaturePart>
+  </member>
+</S124:DataSet>
