@@ -27,14 +27,14 @@ message series example
 year:2017 number:420
 ```
 <div align="left">
-<img src="https://i.imgur.com/c59hcj3.png" width="400" height="500">
+<img src="https://i.imgur.com/c59hcj3.png" width="350" height="400">
 </div>
 
 # After Processing
 **Xml file**
 <div>
-<img align="left" src="https://i.imgur.com/jfNg29q.png" width="500" height="500">
+<img align="left" src="https://i.imgur.com/jfNg29q.png" width="400" height="400">
 
 **Shapefile**
-<img align="right" src="https://i.imgur.com/17EqiDy.png" width="500" height="500">
+<img align="right" src="https://i.imgur.com/17EqiDy.png" width="400" height="400">
 </div>
