@@ -31,10 +31,10 @@ year:2017 number:420
 </div>
 
 # After Processing
-**Xml file**
 <div>
-<img align="left" src="https://i.imgur.com/jfNg29q.png" width="400" height="400">
+**Xml file**
+<img align="left" src="https://i.imgur.com/jfNg29q.png" width="350" height="400">
 
 **Shapefile**
-<img align="right" src="https://i.imgur.com/17EqiDy.png" width="400" height="400">
+<img align="right" src="https://i.imgur.com/17EqiDy.png" width="450" height="350">
 </div>
