@@ -24,11 +24,11 @@
 message series example
 year:2017 number:420
 ```
-![alt text](https://i.imgur.com/c59hcj3.png)
+<img align="left" src="https://i.imgur.com/c59hcj3.png" width="400" height="500">
 
 # After Processing
 **Xml file**
-![xml file](https://i.imgur.com/jfNg29q.png)
+<img align="left" src="https://i.imgur.com/jfNg29q.png" width="500" height="500">
 
 **Shapefile**
-![shapefile](https://i.imgur.com/17EqiDy.png)
+<img align="left" src="https://i.imgur.com/17EqiDy.png" width="500" height="500">
