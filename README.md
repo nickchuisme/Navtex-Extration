@@ -14,7 +14,7 @@
 
 
 **Confusion Matrix**
-![alt text](https://i.imgur.com/ZD3rcJn.png)
+![alt text](https://i.imgur.com/ZD3rcJn.png =250x250)
 
 **F1-score**
 - best : 98.224%
