@@ -14,7 +14,9 @@
 
 
 **Confusion Matrix**
-<img align="left" src="https://i.imgur.com/ZD3rcJn.png" width="700" height="500">
+<div align="left">
+<img src="https://i.imgur.com/ZD3rcJn.png" width="700" height="500">
+</div>
 
 **F1-score**
 - best : 98.224%
